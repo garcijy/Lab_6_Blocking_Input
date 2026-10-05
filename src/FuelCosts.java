@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+public class FuelCosts
+{
 
-public class FuelCosts {
 }

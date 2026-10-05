@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+public class HighOrLow
+{
 
-public class HighOrLow {
 }
