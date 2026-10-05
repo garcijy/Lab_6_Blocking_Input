@@ -6,6 +6,7 @@ public class CtoFConverter
     public static void main(String[]args)
     {
         Scanner input = new Scanner(System.in);
+
         double celsius = 0;     //temp user enters
         double fahrenheit = 0;  //the cnoverted temp
         String trash = "";      //holds bad inputs
