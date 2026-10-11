@@ -20,7 +20,7 @@ public class HighOrLow
         //loops until whole num is given
         do
         {
-            System.out.print("Guess a number from 1 to 10: ");
+            System.out.print("Guess a number from 1 to 10: "); //
             if (input.hasNextInt())
             {
                 guess = input.nextInt();

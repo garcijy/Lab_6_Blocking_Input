@@ -61,7 +61,7 @@ public class FuelCosts
         {
             pricePerGallon = input.nextDouble();
             input.nextLine();
-            done = true;
+            done = true; //
         }
         else
         {

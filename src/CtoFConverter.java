@@ -27,7 +27,7 @@ public class CtoFConverter
             else //input not a number, need a valid number
             {
                 trash = input.nextLine();
-                System.out.print("\nYou entered: " + trash);
+                System.out.print("\nYou entered: " + trash); //
                 System.out.println("\nYou have to enter a valid number.");
             }
         }

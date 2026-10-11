@@ -49,7 +49,7 @@ public class RectangleInfo
                 System.out.println("You must enter a valid number.");
             }
         }
-        while (!done);
+        while (!done); //
 
         //area = w * h
         double area = width * height;
